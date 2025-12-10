@@ -1,0 +1,29 @@
+🐍 Projeto em Python 3
+
+Esse projeto foi desenvolvido usando Python 3, a versão mais estável, moderna e tranquila de trabalhar. 
+Tudo aqui funciona com foco nas boas práticas da linguagem e no jeitinho certo de organizar código pra não virar bagunça. 
+Sintaxe mais clara e elegante, com a melhor performance, com uma comunidade gigante (muita ajuda na internet) 
+e suporte às bibliotecas modernas que todo mundo usa!
+
+[] O que você precisa pra rodar o projeto?
+  Ter o Python 3 instalado (qualquer versão 3.9+ já é show!) + plataforma de desenvolvimento
+Dá pra achar nas dependências do VSCode, na Microsoft Store ou até mesmo no link oficial deles ↓
+              https://www.python.org/downloads/
+
+          Instalar as dependências com:
+
+              pip install -r requirements.txt
+
+          => Como rodar
+
+             Depois de instalar tudo bonitinho:
+
+                python nome_do_arquivo.py
+
+              ou, se for uma aplicação estruturada:
+
+                python -m nome_do_pacote
+
+* Testes (se você quiser ficar pro-player)
+    
+    pytest
