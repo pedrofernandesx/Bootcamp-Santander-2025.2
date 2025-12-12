@@ -24,6 +24,6 @@ Dá pra achar nas dependências do VSCode, na Microsoft Store ou até mesmo no l
 
                 python -m nome_do_pacote
 
-* Testes (se você quiser ficar pro-player)
+* Teste
     
     pytest
